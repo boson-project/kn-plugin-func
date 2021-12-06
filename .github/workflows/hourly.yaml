@@ -15,3 +15,5 @@ jobs:
           release-type: simple
           bump-minor-pre-major: true
           fork: true
+          repo-url: https://github.com/knative-sandbox/kn-plugin-func
+          draft: true
