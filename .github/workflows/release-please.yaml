@@ -2,7 +2,7 @@ name: 'Release Please PR'
 
 on:
   schedule:
-    - cron: '0/10 * * * *'
+    - cron: '0/30 * * * *'
 
 jobs:
   update-pr:
